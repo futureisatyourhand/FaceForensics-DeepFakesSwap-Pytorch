@@ -9,6 +9,9 @@ declares the common encoder, the decoders of person1 and person2.
 # training
 We visulize our training process for two persons, the model trains 100000 epochs, and the picture shows the losses every 100 epochs.
 ![Image text](https://github.com/futureisatyourhand/FaceForensics-DeepFakes-Pytorch/blob/master/train.png)
+# Examples
+Examples of training 9,000 epochs
+![Image text](https://github.com/futureisatyourhand/FaceForensics-DeepFakes-Pytorch/blob/master/9000.jpg)
 
 # additional affine transformation
 We need to construct the radiological transformation matrix according to the rotation center, rotation angle and scale.
