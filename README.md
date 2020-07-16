@@ -15,8 +15,8 @@ We need to construct the radiological transformation matrix according to the rot
 
 We shift the center to the origin, and re-scale it, shift it.
 Assuming that a sample rotate θ at the center point (x, y), and then enlarges or reduces by s, the radiative transformation matrix is:
-
-<img src="https://github.com/futureisatyourhand/FaceForensics-DeepFakes-Pytorch/blob/master/matrix.png" width="80",height="30">
+![Image text](https://github.com/futureisatyourhand/FaceForensics-DeepFakes-Pytorch/blob/master/train.png)
+<img src="https://github.com/futureisatyourhand/FaceForensics-DeepFakes-Pytorch/blob/master/matrix.png" width="80",height="30"/>
 
 The new face can be transformed into the target video based on the matrix to fool the human eyes.
 
